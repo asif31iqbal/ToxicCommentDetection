@@ -1,4 +1,4 @@
-# ToxicCommentDetection
+# Toxic Comment Detection
 A deep learning attempt to identify toxic comments (multi-label classification)
 
 The original problem was taken from this [Kaggle competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
